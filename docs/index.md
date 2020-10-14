@@ -1,3 +1,11 @@
-# Palo Bar
+{% for grp in site.groups %}
+## {{ grp.title }}
 
-Hello!  This is my bar yo.
+{% assign cocktails = site.cocktails | where: "groups", grp.name %}
+{% for cocktail in cocktails %}
+### [{{ cocktail.title }}]({{ cocktail.url }})
+
+{{ cocktail.description }}
+{% endfor %}
+
+{% endfor %}

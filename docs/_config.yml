@@ -1,0 +1,43 @@
+title: Palo Bar
+email: ryan@thepalos.com
+description: >- # this means to ignore newlines until "baseurl:"
+  This is the bar menu for the Palo house.  I like learning and
+  making cocktails, we're always trying new stuff, mastering
+  old stuff, and getting new ingredients and tools to expand
+  our capabilities.
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "https://palo.bar" # the base hostname & protocol for your site, e.g. http://example.com
+twitter_username: paytastic
+github_username:  rpalo
+
+# Build settings
+theme: minima
+plugins:
+  - jekyll-feed
+collections:
+  cocktails:
+    output: true
+  spirits:
+    output: false
+  groups:
+    output: false
+
+defaults:
+  - 
+    scope: 
+      path: ""
+      type: "cocktails"
+    values:
+      layout: "page"
+#
+# exclude:
+#   - .sass-cache/
+#   - .jekyll-cache/
+#   - gemfiles/
+#   - Gemfile
+#   - Gemfile.lock
+#   - node_modules/
+#   - vendor/bundle/
+#   - vendor/cache/
+#   - vendor/gems/
+#   - vendor/ruby/
