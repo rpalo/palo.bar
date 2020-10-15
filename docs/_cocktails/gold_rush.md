@@ -2,10 +2,10 @@
 title: Gold Rush
 spirits:
   - bourbon
+  - whiskey
 description: >-
   All golden liquids?  Midas well try some!  Wocka wocka!
 groups:
-  - bourbon
   - summer
 
 ---

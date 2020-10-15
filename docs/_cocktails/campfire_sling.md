@@ -2,6 +2,7 @@
 title: Campfire Sling
 spirits:
   - whiskey
+  - rye
 description: >-
   A cozy, cabin-y Old Fashioned with maple syrup and chocolate bitters
 groups:

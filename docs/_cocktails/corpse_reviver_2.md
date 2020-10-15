@@ -5,7 +5,6 @@ spirits:
 description: >-
   The Savoy cocktail book says that "four of these taken in swift succession will unrevive the corpse once again."  Gin, triple sec, lillet blanc, and lemon juice.  *Very* zesty.
 groups:
-  - gin
   - slow-sippers
 
 ---

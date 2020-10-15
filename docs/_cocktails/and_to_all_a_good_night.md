@@ -2,6 +2,7 @@
 title: And to All a Good Night
 spirits:
   - bourbon
+  - whiskey
   - tequila
 description: >-
   A nice warm digestif featuring bourbon, tequila reposado, and cherry liqueur.

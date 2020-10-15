@@ -2,6 +2,7 @@
 title: Hot Toddy
 spirits:
   - whiskey
+  - irish whiskey
 description: >-
   OK, so it doesn't have coffee in it!  But it's warm
   and I didn't want to have to make a whole new category

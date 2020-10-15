@@ -6,7 +6,6 @@ description: >-
   Kind of a vodka Old Fashioned with a Brazilian twist.  Actually, a Caipirinha for people who don't have cachaca.
 groups:
   - lab
-  - vodka
 
 ---
 

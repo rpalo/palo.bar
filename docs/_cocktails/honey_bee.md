@@ -6,7 +6,6 @@ description: >-
   The Bees Knees with tequila!  Or a Gold Rush, but with tequila!  It's got honey and lemon, OK?
 groups:
   - summer
-  - tequila
 
 ---
 

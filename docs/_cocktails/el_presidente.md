@@ -5,8 +5,7 @@ spirits:
 description: >-
   Cuba's response to the Manhattan.  A darn good sipper.
 groups:
-  - rum
-  - slow-sippers
+  - up
 
 ---
 

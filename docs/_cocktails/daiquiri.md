@@ -5,7 +5,6 @@ spirits:
 description: >-
   Another classic: rum, lime juice, and simple syrup.
 groups:
-  - rum
   - classics
 
 ---

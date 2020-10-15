@@ -1,6 +1,7 @@
 ---
 title: Algonquin
 spirits:
+  - rye
   - whiskey
 description: >-
   From New York City's Algonquin hotel in the '30's.  A Manhattan

@@ -5,7 +5,6 @@ spirits:
 description: >-
   A classic island cola highball.  You may know it as a "rum 'n Coke with lime juice."
 groups:
-  - rum
   - highballs
   - classics
 

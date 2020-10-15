@@ -2,11 +2,14 @@
 title: Old Fashioned
 spirits:
   - whiskey
+  - rye
+  - bourbon
 description: >-
   The classic: Whiskey, sugar, bitters.  Orange peel if you're
   feeling fancy.
 groups:
   - favorites
+  - classics
 
 ---
 

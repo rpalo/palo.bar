@@ -2,12 +2,13 @@
 title: Bourbon Crusta
 spirits:
   - bourbon
+  - whiskey
 description: >-
   The older, more American version of the sidecar.
   Sugar rim optional.  Bourbon, lemon juice, triple sec, 
   and cherry liqueur.
 groups:
-  - bourbon
+  - classics
 
 ---
 

@@ -2,11 +2,11 @@
 title: Black Hole Sun
 spirits:
   - whiskey
+  - bourbon
 description: >-
   A darker take on an Old Fashioned, with just enough
   cold brew coffee to bitter it up a little.
 groups:
-  - bourbon
   - booze-and-coffee
 
 ---

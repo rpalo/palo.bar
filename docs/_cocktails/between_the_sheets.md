@@ -8,7 +8,7 @@ description: >-
   significantly more mellow than you'd think.  Rum,
   brandy, triple sec, and lemon juice.
 groups:
-  - rum
+  - up
 
 ---
 

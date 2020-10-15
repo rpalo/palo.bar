@@ -2,6 +2,7 @@
 title: Cold Brew Bourbon
 spirits:
   - bourbon
+  - whiskey
 description: >-
   Think Irish Coffee, but better and not hot.
 groups:

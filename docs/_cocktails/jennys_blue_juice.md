@@ -6,7 +6,6 @@ description: >-
   Crafted by Jenny herself when she didn't like the Bacardi that Ryan made her.
 groups:
   - favorites
-  - rum
 
 ---
 

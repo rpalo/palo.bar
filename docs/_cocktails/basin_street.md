@@ -2,10 +2,11 @@
 title: Basin Street
 spirits:
   - bourbon
+  - whiskey
 description: >-
   A refreshing prohibition-era cocktail.  Bourbon, triple sec, and lemon juice.
 groups:
-  - bourbon
+  - up
 
 ---
 

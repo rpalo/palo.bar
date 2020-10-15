@@ -2,6 +2,7 @@
 title: Cherry Drink
 spirits:
   - vodka
+  - cherry liqueur
 description: >-
   Like cherry soda, but with more drunky.
 groups:

@@ -2,12 +2,12 @@
 title: Boulivardier
 spirits:
   - bourbon
+  - whiskey
   - campari
 description: >-
   The south's answer to a Negroni.  Bourbon, Campari, 
   and sweet vermouth.
 groups:
-  - bourbon
   - bitter
 
 ---

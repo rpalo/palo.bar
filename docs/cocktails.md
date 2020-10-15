@@ -1,3 +1,8 @@
+---
+title: Cocktails by Category
+description: A list of all the cocktails by the category that we've arbitrarily created and put them into.
+---
+
 <link rel="stylesheet" href="css/overrides.css" />
 
 {% assign ordered_groups = site.groups | sort: "priority" %}

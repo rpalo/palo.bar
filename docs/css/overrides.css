@@ -32,3 +32,13 @@ h3 + p {
 .group-sep {
   padding-bottom: 30px;
 }
+
+.buttons {
+  text-align: center;
+}
+
+.button {
+  display: inline-block;
+  padding: 50px;
+  font-size: 2em;
+}

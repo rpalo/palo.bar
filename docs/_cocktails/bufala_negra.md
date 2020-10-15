@@ -2,11 +2,11 @@
 title: Bufala Negra
 spirits:
   - bourbon
+  - whiskey
 description: >-
   A Mediterranean bourbon drink that sounds weird and is just fantastic.
 groups:
   - favorites
-  - bourbon
 
 ---
 
