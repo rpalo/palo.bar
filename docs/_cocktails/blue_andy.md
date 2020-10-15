@@ -7,6 +7,7 @@ description: >-
   Vodka, blue curacao, apple juice, and mostly lemonade.
 groups:
   - favorites
+  - highballs
 
 ---
 
