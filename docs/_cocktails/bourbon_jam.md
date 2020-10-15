@@ -7,6 +7,7 @@ description: >-
   and blackberry jam topped with 7-Up or ginger ale.
 groups:
   - bourbon
+  - summer
 
 ---
 

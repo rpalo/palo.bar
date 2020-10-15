@@ -6,6 +6,7 @@ description: >-
   A little La Croix, a little bitter, a little boozy.  For your average basic housewife.  Ryan loves it.
 groups:
   - low-proof
+  - summer
 
 ---
 
