@@ -6,7 +6,7 @@ spirits:
 description: >-
   A whiskey sour with lots of grenadine instead of simple syrup.
 groups:
-  - slow-sippers
+  - whiskey-sours
 
 ---
 

@@ -6,7 +6,7 @@ spirits:
 description: >-
   A woodsy sour subbing maple syrup for simple.
 groups:
-  - favorites
+  - whiskey-sours
 
 ---
 

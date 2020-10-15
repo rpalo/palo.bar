@@ -6,7 +6,7 @@ spirits:
 description: >-
   All golden liquids?  Midas well try some!  Wocka wocka!
 groups:
-  - summer
+  - whiskey-sours
 
 ---
 
