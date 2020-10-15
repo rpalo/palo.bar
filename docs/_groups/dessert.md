@@ -1,7 +1,7 @@
 ---
 name: dessert
 title: Dessert
-priority: 30
+priority: 25
 ---
 
 Sweet + boozy = happy + sleepy :)

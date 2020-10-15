@@ -1,7 +1,7 @@
 ---
 name: classics
 title: Classics
-priority: 30
+priority: 20
 ---
 
 They're still around for a reason.  You can find

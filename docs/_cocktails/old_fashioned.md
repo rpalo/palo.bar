@@ -6,7 +6,7 @@ spirits:
   - bourbon
 description: >-
   The classic: Whiskey, sugar, bitters.  Orange peel if you're
-  feeling fancy.
+  feeling fancy.  Ryan's top favorite.
 groups:
   - favorites
   - classics

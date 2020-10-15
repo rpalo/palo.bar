@@ -1,7 +1,7 @@
 ---
 name: slow-sippers
 title: Slow Sippers
-priority: 30
+priority: 20
 ---
 
 These ones are the opposite of low-proof, and you'll
