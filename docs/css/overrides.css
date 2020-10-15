@@ -1,0 +1,34 @@
+h2 {
+  margin-bottom: 10px;
+  font-size: 2em;
+  background-color: #5CC5EF;
+  text-align: center;
+  color: #FFF;
+}
+
+h2 + p {
+  font-style: italic;
+}
+
+h3 {
+  margin-bottom: 0;
+  font-size: 1.1em;
+  font-weight: bold;
+  border-bottom: 1px solid #DDD;
+}
+
+h3 > a {
+  color: #111;
+}
+
+h3 > a:visited {
+  color: #111;
+}
+
+h3 + p {
+  font-size: .9em;
+}
+
+.group-sep {
+  padding-bottom: 30px;
+}

@@ -1,6 +1,7 @@
 ---
 name: favorites
 title: House Favorites
+priority: 0
 ---
 
 These are house favorites.  For Jenny and Ryan.  Not

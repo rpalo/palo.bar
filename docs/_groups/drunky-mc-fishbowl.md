@@ -1,6 +1,7 @@
 ---
 name: drunky-mc-fishbowl
 title: Drunky McFishbowl
+priority: 20
 ---
 
 Is your goal to get drunk in the most efficient way

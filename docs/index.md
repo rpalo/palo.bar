@@ -1,4 +1,8 @@
-{% for grp in site.groups %}
+<link rel="stylesheet" href="css/overrides.css" />
+
+{% assign ordered_groups = site.groups | sort: "priority" %}
+{% for grp in ordered_groups %}
+
 ## {{ grp.title }}
 
 {{ grp.content }}
@@ -9,5 +13,7 @@
 
 {{ cocktail.description }}
 {% endfor %}
+
+<div class="group-sep"></div>
 
 {% endfor %}

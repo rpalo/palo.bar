@@ -1,6 +1,7 @@
 ---
 name: lab
 title: The Lab
+priority: 10
 ---
 
 These are the cutting edge of drinks that we Palos are
