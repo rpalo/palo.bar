@@ -5,7 +5,7 @@ spirits:
 description: >-
   Blue peaches!  Vodka, blue curacao, and peach schnapps.
 groups:
-  - lab
+  - martinis
 
 ---
 
