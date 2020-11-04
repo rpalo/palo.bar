@@ -1,0 +1,33 @@
+---
+title: Feeling Lucky
+description: Not sure what you want?  Tempted to say surprise me but want a final say in the surprise?  Let the menu suggest something for you!
+---
+
+<h2>How About...</h2>
+
+<h3 id="suggestion-title"><a id="suggestion-link" href=""></a></h3>
+
+<p id="suggestion-description"></p>
+
+<button role="button" id="again">Again!</button>
+
+<script>
+  const link = document.getElementById("suggestion-link");
+  const description = document.getElementById("suggestion-description");
+  const again = document.getElementById("again");
+
+  const drinks = fetch("/cocktails.json")
+    .then(response => response.json())
+    .catch((error) => console.error(error));
+
+  function pick_random_cocktail() {
+    const cocktail = drinks[Math.floor(Math.random()*drinks.length)];
+    link.href = cocktail.permalink;
+    link.innerText = cocktail.title;
+    description.innerText = cocktail.description;
+  }
+
+  again.addEventListener("click", pick_random_cocktail);
+
+  pick_random_cocktail();
+</script>
