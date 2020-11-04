@@ -1,7 +1,10 @@
 ---
 title: Feeling Lucky
 description: Not sure what you want?  Tempted to say surprise me but want a final say in the surprise?  Let the menu suggest something for you!
+layout: page
 ---
+
+<link rel="stylesheet" href="css/overrides.css" />
 
 <h2>How About...</h2>
 
@@ -16,9 +19,7 @@ description: Not sure what you want?  Tempted to say surprise me but want a fina
   const description = document.getElementById("suggestion-description");
   const again = document.getElementById("again");
 
-  const drinks = fetch("/cocktails.json")
-    .then(response => response.json())
-    .catch((error) => console.error(error));
+  let drinks = []
 
   function pick_random_cocktail() {
     const cocktail = drinks[Math.floor(Math.random()*drinks.length)];
@@ -29,5 +30,11 @@ description: Not sure what you want?  Tempted to say surprise me but want a fina
 
   again.addEventListener("click", pick_random_cocktail);
 
-  pick_random_cocktail();
+  fetch("/cocktails.json")
+    .then(response => response.json())
+    .then(data => {
+      drinks = data;
+      pick_random_cocktail();
+    })
+    .catch((error) => console.error(error));
 </script>

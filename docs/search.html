@@ -1,40 +1,44 @@
 ---
-title: Search
+title: Search by Name
 description: Find a specific cocktail quickly.
+layout: page
 ---
+
+<link rel="stylesheet" href="css/overrides.css" />
 
 <input id="search-input" type="text">
 
 <h2>Results</h2>
 
 <div id="search-results">
-
+  {% for cocktail in site.cocktails %}
+  <div class="search-result" data-name="{{ cocktail.title | downcase }}">
+    <h3><a href="{{ cocktail.permalink }}">{{ cocktail.title }}</a></h3>
+    <p>{{ cocktail.description }}</p>
+  </div>
+  {% endfor %}
 </div>
+
+<style>
+  .search-result {
+    display: none;
+  }
+</style>
 
 <script>
   const input = document.getElementById("search-input");
-  const results = document.getElementById("search-results");
-
-  const drinks = fetch("/cocktails.json")
-    .then(response => response.json())
-    .catch((error) => console.error(error));
+  const drinks = document.querySelectorAll(".search-result");
 
   function update_results() {
     const query = input.value;
-    results.innerHTML = "";
-    drinks.filter((drink) => drink.title.includes(query))
-      .forEach((drink) => {
-        const el = document.createElement("div");
-        const title = document.createElement("h3");
-        const link = document.createElement("a");
-        link.href = drink.permalink;
-        link.innerText = drink.title;
-        title.appendChild(link);
-        const description = document.createElement("p");
-        description.innerText = drink.description;
-        el.appendChild(title);
-        el.appendChild(description);
-        results.appendChild(el);
-      });
+    drinks.forEach(drink => {
+      if (drink.dataset.name.includes(query)) {
+        drink.style.display = "block";
+      } else {
+        drink.style.display = "none";
+      }
+    });
   }
+
+  input.addEventListener("keyup", update_results);
 </script>

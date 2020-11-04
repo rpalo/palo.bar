@@ -1,6 +1,6 @@
 ---
 title: Lucano No. 2
-description: A autumnly celebration of Italian flavors: amaro, cinnamon, gin, and chinotto.
+description: 'A autumnly celebration of Italian flavors: amaro, cinnamon, gin, and chinotto.'
 spirits:
 - amaro
 - gin

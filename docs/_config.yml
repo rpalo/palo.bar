@@ -16,6 +16,8 @@ header_pages:
   - index.html
   - spirits.md
   - cocktails.md
+  - lucky.html
+  - search.html
 plugins:
   - jekyll-feed
 collections:
