@@ -8,7 +8,7 @@ spirits:
 description: >-
   Do you want to be drunk?  Do you want to be drunk right now?
   Do you like your drunk to come in BLUE flavor?
-  Do you belive that "blue" is most definitely a flavor?
+  Do you belive that 'blue' is most definitely a flavor?
   Then this drink is for you!
 groups:
   - drunky-mc-fishbowl
