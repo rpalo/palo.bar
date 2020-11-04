@@ -3,9 +3,9 @@
 [
   {% for cocktail in site.cocktails %}
   {
-    "title": "{% cocktail.title %}",
-    "permalink": "{% cocktail.url %}",
-    "description": "{% cocktail.description %}"
+    "title": "{{ cocktail.title }}",
+    "permalink": "{{ cocktail.url }}",
+    "description": "{{ cocktail.description }}"
   }{% if forloop.last == false %},{% endif %}
   {% endfor %}
 ]
