@@ -30,7 +30,7 @@ layout: page
   const drinks = document.querySelectorAll(".search-result");
 
   function update_results() {
-    const query = input.value;
+    const query = input.value.toLowerCase();
     drinks.forEach(drink => {
       if (drink.dataset.name.includes(query)) {
         drink.style.display = "block";
