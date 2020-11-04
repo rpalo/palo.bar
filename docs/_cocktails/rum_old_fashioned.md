@@ -5,7 +5,7 @@ spirits:
 description: >-
   Same Old Fashioned formula, but with limes and rum for island vibes.
 groups:
-  - slow-sippers
+  - rocks
   - summer
 
 ---

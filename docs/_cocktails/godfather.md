@@ -6,7 +6,7 @@ spirits:
 description: >-
   You come into my house on the day my daughter is to be married and you ask me for scotch and amaretto.
 groups:
-  - slow-sippers
+  - rocks
 
 ---
 

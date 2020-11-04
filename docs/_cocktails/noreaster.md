@@ -6,7 +6,7 @@ spirits:
 description: >-
   Think of it as a more wintry Kentucky Buck, or a more gingery Maple Bourbon Smash, or even a cross between a Backcountry Mule and a pancake.  Bourbon, lime juice, maple syrup, and ginger beer.
 groups:
-  - highballs
+  - mules
 
 ---
 

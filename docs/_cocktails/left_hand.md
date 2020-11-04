@@ -8,7 +8,7 @@ spirits:
 description: >-
   A cross between an Negroni and a Manhattan: bourbon, vermouth, campari, and some chocolate bitters.  Or a Boulevardier with slightly better ratios.
 groups:
-  - slow-sippers
+  - rocks
 
 ---
 

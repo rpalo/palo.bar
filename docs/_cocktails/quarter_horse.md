@@ -6,7 +6,7 @@ spirits:
 description: >-
   Another bourbon ginger beer highball, but with Creole bitters to compliment the Angostura.
 groups:
-  - highballs
+  - mules
 
 ---
 

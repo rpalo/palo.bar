@@ -6,6 +6,7 @@ description: >-
   This is another one you can customize to your heart's content.  Want whiskey instead of vodka?  Want orange instead of lime?  Or blackberry?  Or mint?  Or vanilla? As long as it's in the mug with ginger beer, it's probably technically still a mule.
 groups:
   - classics
+  - mules
 
 ---
 

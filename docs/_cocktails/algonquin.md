@@ -7,7 +7,7 @@ description: >-
   From New York City's Algonquin hotel in the '30's.  A Manhattan
   with just a poke of tropicality.
 groups:
-  - lab
+  - up
 
 ---
 

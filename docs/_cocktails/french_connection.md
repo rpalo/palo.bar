@@ -6,7 +6,7 @@ spirits:
 description: >-
   Want to feel 100% like a Grandma but not even care because it's so tasty and almondy?  Try this 1:1 brandy and amaretto mix.
 groups:
-  - slow-sippers
+  - rocks
 
 ---
 

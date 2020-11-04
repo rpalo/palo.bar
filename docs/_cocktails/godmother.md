@@ -6,7 +6,7 @@ spirits:
 description: >-
   The Don's lighter half, swapping vodka for scotch.
 groups:
-  - slow-sippers
+  - rocks
 
 ---
 

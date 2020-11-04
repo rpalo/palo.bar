@@ -4,7 +4,7 @@ description: Spicy, bold, and bubbly.  Named after a video game.
 spirits:
 - tequila
 groups:
-- lab
+- mules
 ---
 
 - 2 oz tequila reposado

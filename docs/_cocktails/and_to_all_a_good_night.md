@@ -7,7 +7,7 @@ spirits:
 description: >-
   A nice warm digestif featuring bourbon, tequila reposado, and cherry liqueur.
 groups:
-  - slow-sippers
+  - rocks
 
 ---
 
