@@ -5,7 +5,7 @@ spirits:
 - mezcal
 - tequila
 groups:
-- lab
+- dessert
 ---
 
 - 1 oz mezcal
