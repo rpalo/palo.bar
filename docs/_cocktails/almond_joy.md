@@ -6,7 +6,7 @@ spirits:
 - rum
 description: Sweet, creamy, nutty, and a fine use of Halloween candy.
 groups:
-- lab
+- dessert
 ---
 
 - 2 oz light cream
