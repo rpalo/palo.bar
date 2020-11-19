@@ -1,6 +1,6 @@
 ---
 title: Oaxaca Old Fashioned
-descriptioned: Smoky, creamy, sweet, and slow.
+description: Smoky, creamy, sweet, and slow.
 spirits:
 - tequila
 groups:
