@@ -4,7 +4,7 @@ description: Yeah man! Tequila, scotch and curaçao make this a neat twist on an
 spirits:
 - tequila
 - scotch
-group:
+groups:
 - lab
 ---
 
