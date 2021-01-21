@@ -6,7 +6,7 @@ spirits:
 description: >-
   Oooo someone getting fancy with the syrups.  Bourbon, strawberry balsamic syrup, and lemon juice.
 groups:
-  - lab
+  - fancy-ingredients
 
 ---
 

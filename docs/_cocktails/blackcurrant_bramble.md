@@ -4,7 +4,7 @@ description: A gin sour with a berry swizzle.  Tres French summer!
 spirits:
 - gin
 groups:
-- lab
+- summer
 ---
 
 - 2 oz gin

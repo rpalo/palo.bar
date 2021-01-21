@@ -5,7 +5,6 @@ spirits:
 description: >-
   Coffee liqueur, amarula, and chocolate syrup--I mean, come on!
 groups:
-  - favorites
   - dessert
 
 ---

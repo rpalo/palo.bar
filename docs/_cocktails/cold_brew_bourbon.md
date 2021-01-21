@@ -6,7 +6,6 @@ spirits:
 description: >-
   Think Irish Coffee, but better and not hot.
 groups:
-  - favorites
   - booze-and-coffee
 
 ---

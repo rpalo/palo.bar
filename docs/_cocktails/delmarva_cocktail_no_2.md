@@ -6,7 +6,7 @@ spirits:
 - whiskey
 - vermouth
 groups:
-- lab
+- up
 ---
 
 - 2 oz bourbon

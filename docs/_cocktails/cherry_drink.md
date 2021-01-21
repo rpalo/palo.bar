@@ -6,7 +6,6 @@ spirits:
 description: >-
   Like cherry soda, but with more drunky.
 groups:
-  - favorites
   - highballs
 
 ---

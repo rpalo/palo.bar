@@ -5,7 +5,7 @@ spirits:
 - tequila
 - scotch
 groups:
-- lab
+- rocks
 ---
 
 - 2 oz tequila reposado (prefer something bold/complex)
@@ -13,4 +13,4 @@ groups:
 - 1/2 oz sweet curaçao 
 - 3 dashes orange bitters
 
-Stir and strain over a rock. Garnish with an orange twist if you are feeling it. Hi 
+Stir and strain over a rock. Garnish with an orange twist if you are feeling it.

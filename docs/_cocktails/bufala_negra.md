@@ -7,7 +7,7 @@ description: >-
   A Mediterranean bourbon drink that sounds weird and is just fantastic.
 groups:
   - favorites
-
+  - fancy-ingredients
 ---
 
 - 1 1/2 oz bourbon
