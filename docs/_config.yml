@@ -23,6 +23,7 @@ plugins:
 collections:
   cocktails:
     output: true
+    permalink: /:collection/:name/
   spirits:
     output: false
   groups:

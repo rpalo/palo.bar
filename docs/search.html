@@ -13,7 +13,7 @@ layout: page
 <div id="search-results">
   {% for cocktail in site.cocktails %}
   <div class="search-result" data-name="{{ cocktail.title | downcase }}">
-    <h3><a href="{{ cocktail.permalink }}">{{ cocktail.title }}</a></h3>
+    <h3><a href="{{ cocktail.url }}">{{ cocktail.title }}</a></h3>
     <p>{{ cocktail.description }}</p>
   </div>
   {% endfor %}
