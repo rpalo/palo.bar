@@ -6,7 +6,7 @@ description: >-
   There's blood in the water!  No wait, it's grenadine.  Dammit Jerry!
 groups:
   - favorites
-  - summer
+  - tiki
 
 ---
 
