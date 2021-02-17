@@ -7,8 +7,7 @@ spirits:
 description: >-
   Aged rum, whiskey, PX Sherry, and coffee tincture make for a refined, bold blend of flavors.
 groups:
-  - lab
-
+  - old-fashioneds
 ---
 
 - 1 oz aged rum

@@ -6,8 +6,7 @@ spirits:
 description: >-
   Bourbon, dark rum, and pineapple syrup come together to form something dark, sweet, and perfect for sipping at night.
 groups:
-  - rocks
-  - summer
+  - old-fashioneds
 ---
 
 - 1 1/2 oz bourbon

@@ -5,7 +5,7 @@ spirits:
 - whiskey
 description: A nice bourbon sour deepened with some lovely purpley creme de cassis.
 groups:
-- rocks
+- whiskey-sours
 ---
 
 - 2 oz bourbon

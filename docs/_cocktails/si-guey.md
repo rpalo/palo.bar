@@ -5,7 +5,7 @@ spirits:
 - tequila
 - scotch
 groups:
-- rocks
+- old-fashioneds
 ---
 
 - 2 oz tequila reposado (prefer something bold/complex)

@@ -5,6 +5,7 @@ spirits:
 - tequila
 groups:
 - favorites
+- old-fashioneds
 ---
 
 - 1 1/2 oz tequila reposado

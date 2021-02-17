@@ -7,7 +7,7 @@ description: >-
   A great summer cooldown.  Bourbon, lemon juice, honey,
   and blackberry jam topped with 7-Up or ginger ale.
 groups:
-  - summer
+  - whiskey-sours
 
 ---
 
