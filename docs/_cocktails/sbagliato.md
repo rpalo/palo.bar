@@ -7,6 +7,7 @@ description: >-
 groups:
   - bitter
   - summer
+  - sparkling
 
 ---
 
