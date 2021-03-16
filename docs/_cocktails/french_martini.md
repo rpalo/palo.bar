@@ -4,7 +4,7 @@ description: A lovely fruity summer martini including lemon juice, Creme de cass
 spirits:
 - vodka
 groups:
-- lab
+- martinis
 ---
 
 - 2 oz vodka
