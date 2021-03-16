@@ -5,7 +5,7 @@ spirits:
 description: >-
   Think "tropical Manhattan sour?"  Bourbon, sweet vermouth, lemon, and pineapple.
 groups:
-  - lab
+  - up
 ---
 
 - 1 1/2 oz bourbon

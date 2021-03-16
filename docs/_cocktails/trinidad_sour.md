@@ -7,7 +7,6 @@ description: >-
   a little bit of rye whiskey.  Prepare yourself.
 groups:
   - whiskey-sours
-  - lab
 ---
 
 - 3/4 oz lemon juice

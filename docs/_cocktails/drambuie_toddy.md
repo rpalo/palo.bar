@@ -7,7 +7,6 @@ description: >-
   toddy.  Green tea with a honey-and-herb scotch-based liqueur.
 groups:
   - booze-and-coffee
-  - lab
 ---
 
 - 1 1/2 oz drambuie

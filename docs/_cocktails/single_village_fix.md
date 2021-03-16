@@ -7,7 +7,6 @@ description: >-
   lime juice, and pineapple syrup.
 groups:
   - summer
-  - lab
 ---
 
 - 1 1/2 oz mezcal

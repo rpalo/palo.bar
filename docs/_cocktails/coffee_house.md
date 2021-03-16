@@ -6,7 +6,7 @@ spirits:
 description: >-
   An Old Fashioned with a coffee twist.
 groups:
-  - lab
+  - old-fashioneds
 
 ---
 
