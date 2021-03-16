@@ -3,8 +3,7 @@ title: French 75
 spirits:
   - gin
 description: >-
-  From New York City's Algonquin hotel in the '30's.  A Manhattan
-  with just a poke of tropicality.
+  A gin sour topped with sparkling wine.
 groups:
   - sparkling
 
